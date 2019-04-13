@@ -1,0 +1,1309 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRTglob.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_CRT_glob)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(setargv.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_setargv)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRTfmode.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_CRT_fmode)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(cpu_features.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (__cpu_features_init)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRT_fp10.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_fpreset)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(txtmode.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_fmode)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(gccmain.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (__main)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (__dyn_tls_init_callback)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o) (__mingw_TLScallback)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_pei386_runtime_relocator)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc-list.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o) (__RUNTIME_PSEUDO_RELOC_LIST__)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(crtst.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o) (_CRT_MT)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_chkstk_ms.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(setargv.o) (__chkstk_ms)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_ctors.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(gccmain.o) (__DTOR_LIST__)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(setargv.o) (__mingw_glob)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirname.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o) (__mingw_dirname)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o) (__mingw_opendir)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(snprintf.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o) (snprintf)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(vsnprintf.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(snprintf.o) (__mingw_vsnprintf)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(vsnprintf.o) (__mingw_pformat)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(varofmt.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o) (__mingw_output_format_flag)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(mbrtowc.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o) (mbrtowc)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(wcrtomb.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o) (wcrtomb)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gdtoa.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o) (__gdtoa)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gmisc.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gdtoa.o) (__rshift_D2A)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dmisc.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gdtoa.o) (__rv_alloc_D2A)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(misc.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gdtoa.o) (__Balloc_D2A)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00772.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirname.o) (wcstombs)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00761.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o) (wcslen)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00748.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o) (vfprintf)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00742.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o) (tolower)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00721.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(setargv.o) (strlen)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00716.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o) (strcoll)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00714.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(mbrtowc.o) (strchr)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00706.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (signal)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00704.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirname.o) (setlocale)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00698.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o) (realloc)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00689.o)
+                              C:\Users\Daniel\AppData\Local\Temp\ccK2CKVT.o (printf)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00682.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o) (memcpy)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00678.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirname.o) (mbstowcs)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00676.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o) (malloc)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00671.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o) (localeconv)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00652.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(setargv.o) (isspace)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00637.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o) (getenv)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00633.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o) (fwrite)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00625.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o) (free)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00620.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o) (fputc)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00595.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o) (calloc)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00592.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(mbrtowc.o) (atoi)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00590.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_imp__atexit)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00583.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o) (abort)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00426.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_setmode)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00383.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_imp___onexit)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00266.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_imp___iob)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00228.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o) (_fullpath)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00182.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o) (_errno)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00147.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_cexit)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00099.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (_imp____set_app_type)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00079.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (__p__fmode)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00077.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (__p__environ)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00065.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(mbrtowc.o) (_imp____mb_cur_max)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00055.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (__getmainargs)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvh.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00772.o) (_head_libmsvcrt_a)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvt.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvh.o) (_libmsvcrt_a_iname)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01247.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(wcrtomb.o) (WideCharToMultiByte@32)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01215.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o) (VirtualQuery@12)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01213.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o) (VirtualProtect@16)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01173.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o) (TlsGetValue@4)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01152.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(misc.o) (Sleep@4)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01140.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (SetUnhandledExceptionFilter@4)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00860.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(mbrtowc.o) (MultiByteToWideChar@24)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00814.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o) (LeaveCriticalSection@4)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00763.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(mbrtowc.o) (IsDBCSLeadByteEx@8)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00744.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(misc.o) (InterlockedExchange@8)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00734.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o) (InitializeCriticalSection@4)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00577.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtbegin.o (GetProcAddress@8)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00529.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtbegin.o (GetModuleHandleA@4)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00510.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o) (GetLastError@0)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00388.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(setargv.o) (GetCommandLineA@0)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00321.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o) (FindNextFileA@8)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00304.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o) (FindFirstFileA@8)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00300.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o) (FindClose@4)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00279.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o (ExitProcess@4)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00236.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o) (EnterCriticalSection@4)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00207.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o) (DeleteCriticalSection@4)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdh.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01247.o) (_head_libkernel32_a)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdt.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdh.o) (_libkernel32_a_iname)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_udivdi3.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o) (__udivdi3)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_umoddi3.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o) (__umoddi3)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00082.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o) (stricoll)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00080.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o) (strdup)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbh.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00082.o) (_head_libmoldname_a)
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbt.o)
+                              c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbh.o) (_libmoldname_a_iname)
+
+Allocating common symbols
+Common symbol       size              file
+
+__DTOR_LIST__       0x8               c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_ctors.o)
+__CTOR_LIST__       0x8               c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_ctors.o)
+
+Discarded input sections
+
+ .drectve       0x00000000       0x3c c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_ctors.o)
+ .text          0x00000000        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00099.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x00400000                __image_base__ = 0x400000
+                0x00000000                __dll__ = 0x0
+                0x00400000                ___ImageBase = 0x400000
+                0x00001000                __section_alignment__ = 0x1000
+                0x00000200                __file_alignment__ = 0x200
+                0x00000004                __major_os_version__ = 0x4
+                0x00000000                __minor_os_version__ = 0x0
+                0x00000001                __major_image_version__ = 0x1
+                0x00000000                __minor_image_version__ = 0x0
+                0x00000004                __major_subsystem_version__ = 0x4
+                0x00000000                __minor_subsystem_version__ = 0x0
+                0x00000003                __subsystem__ = 0x3
+                0x00200000                __size_of_stack_reserve__ = 0x200000
+                0x00001000                __size_of_stack_commit__ = 0x1000
+                0x00100000                __size_of_heap_reserve__ = 0x100000
+                0x00001000                __size_of_heap_commit__ = 0x1000
+                0x00000000                __loader_flags__ = 0x0
+                0x00000000                __dll_characteristics__ = 0x0
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtbegin.o
+LOAD C:\Users\Daniel\AppData\Local\Temp\ccK2CKVT.o
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc_eh.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libadvapi32.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libshell32.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libuser32.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc_eh.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a
+LOAD c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtend.o
+                0x000002b8                . = SIZEOF_HEADERS
+                0x00001000                . = ALIGN (__section_alignment__)
+
+.text           0x00401000     0x7400
+ *(.init)
+ *(.text)
+ .text          0x00401000      0x300 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o
+                0x00401260                _mingw32_init_mainargs
+                0x004012a0                mainCRTStartup
+                0x004012c0                WinMainCRTStartup
+                0x004012e0                atexit
+                0x004012f0                _onexit
+ .text          0x00401300       0xe0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtbegin.o
+                0x00401300                __gcc_register_frame
+                0x00401390                __gcc_deregister_frame
+ .text          0x004013e0       0x88 C:\Users\Daniel\AppData\Local\Temp\ccK2CKVT.o
+                0x004013e0                checkBits
+                0x0040143c                main
+ .text          0x00401468        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRTglob.o)
+ *fill*         0x00401468        0x8 
+ .text          0x00401470      0x310 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(setargv.o)
+                0x00401470                _setargv
+ .text          0x00401780        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRTfmode.o)
+ .text          0x00401780       0xe0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(cpu_features.o)
+                0x00401780                __cpu_features_init
+ .text          0x00401860       0x10 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRT_fp10.o)
+                0x00401860                fpreset
+                0x00401860                _fpreset
+ .text          0x00401870        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(txtmode.o)
+ .text          0x00401870       0xa0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(gccmain.o)
+                0x00401870                __do_global_dtors
+                0x004018a0                __do_global_ctors
+                0x004018f0                __main
+ .text          0x00401910       0xf0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+                0x00401960                __dyn_tls_init@12
+                0x004019f0                __tlregdtor
+ .text          0x00401a00      0x240 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o)
+                0x00401a70                ___w64_mingwthr_add_key_dtor
+                0x00401b00                ___w64_mingwthr_remove_key_dtor
+                0x00401ba0                __mingw_TLScallback
+ .text          0x00401c40      0x320 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o)
+                0x00401d80                _pei386_runtime_relocator
+ .text          0x00401f60        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc-list.o)
+ .text          0x00401f60        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(crtst.o)
+ .text          0x00401f60       0x2c c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_chkstk_ms.o)
+                0x00401f60                __chkstk_ms
+ .text          0x00401f8c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_ctors.o)
+ *fill*         0x00401f8c        0x4 
+ .text          0x00401f90      0xce0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o)
+                0x00402b90                __mingw_glob
+                0x00402c50                __mingw_globfree
+ .text          0x00402c70      0x400 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirname.o)
+                0x00402c70                __mingw_dirname
+ .text          0x00403070      0x4b0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o)
+                0x004031e0                __mingw_opendir
+                0x00403380                __mingw_readdir
+                0x004033d0                __mingw_closedir
+                0x00403420                __mingw_rewinddir
+                0x00403480                __mingw_telldir
+                0x004034b0                __mingw_seekdir
+ .text          0x00403520       0x30 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(snprintf.o)
+                0x00403520                snprintf
+                0x00403520                __mingw_snprintf
+ .text          0x00403550       0x80 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(vsnprintf.o)
+                0x00403550                __mingw_vsnprintf
+                0x00403550                vsnprintf
+ .text          0x004035d0     0x1f10 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o)
+                0x00404b70                __mingw_pformat
+ .text          0x004054e0        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(varofmt.o)
+ .text          0x004054e0      0x420 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(mbrtowc.o)
+                0x00405660                mbrtowc
+                0x00405700                mbsrtowcs
+                0x00405870                mbrlen
+ .text          0x00405900      0x260 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(wcrtomb.o)
+                0x00405990                wcrtomb
+                0x00405a10                wcsrtombs
+ .text          0x00405b60     0x14a0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gdtoa.o)
+                0x00405b60                __gdtoa
+ .text          0x00407000      0x160 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gmisc.o)
+                0x00407000                __rshift_D2A
+                0x00407120                __trailz_D2A
+ .text          0x00407160      0x2b0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dmisc.o)
+                0x00407160                __rv_alloc_D2A
+                0x004071a0                __nrv_alloc_D2A
+                0x004071f0                __freedtoa
+                0x00407210                __quorem_D2A
+ .text          0x00407410      0xb50 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(misc.o)
+                0x00407530                __Balloc_D2A
+                0x00407600                __Bfree_D2A
+                0x00407670                __multadd_D2A
+                0x00407750                __i2b_D2A
+                0x00407780                __mult_D2A
+                0x004078e0                __pow5mult_D2A
+                0x00407a70                __lshift_D2A
+                0x00407b80                __cmp_D2A
+                0x00407bd0                __diff_D2A
+                0x00407d50                __b2d_D2A
+                0x00407e40                __d2b_D2A
+                0x00407f30                __strcp_D2A
+ .text          0x00407f60        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00772.o)
+                0x00407f60                wcstombs
+ .text          0x00407f68        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00761.o)
+                0x00407f68                wcslen
+ .text          0x00407f70        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00748.o)
+                0x00407f70                vfprintf
+ .text          0x00407f78        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00742.o)
+                0x00407f78                tolower
+ .text          0x00407f80        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00721.o)
+                0x00407f80                strlen
+ .text          0x00407f88        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00716.o)
+                0x00407f88                strcoll
+ .text          0x00407f90        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00714.o)
+                0x00407f90                strchr
+ .text          0x00407f98        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00706.o)
+                0x00407f98                signal
+ .text          0x00407fa0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00704.o)
+                0x00407fa0                setlocale
+ .text          0x00407fa8        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00698.o)
+                0x00407fa8                realloc
+ .text          0x00407fb0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00689.o)
+                0x00407fb0                printf
+ .text          0x00407fb8        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00682.o)
+                0x00407fb8                memcpy
+ .text          0x00407fc0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00678.o)
+                0x00407fc0                mbstowcs
+ .text          0x00407fc8        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00676.o)
+                0x00407fc8                malloc
+ .text          0x00407fd0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00671.o)
+                0x00407fd0                localeconv
+ .text          0x00407fd8        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00652.o)
+                0x00407fd8                isspace
+ .text          0x00407fe0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00637.o)
+                0x00407fe0                getenv
+ .text          0x00407fe8        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00633.o)
+                0x00407fe8                fwrite
+ .text          0x00407ff0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00625.o)
+                0x00407ff0                free
+ .text          0x00407ff8        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00620.o)
+                0x00407ff8                fputc
+ .text          0x00408000        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00595.o)
+                0x00408000                calloc
+ .text          0x00408008        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00592.o)
+                0x00408008                atoi
+ .text          0x00408010        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00590.o)
+ .text          0x00408010        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00583.o)
+                0x00408010                abort
+ .text          0x00408018        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00426.o)
+                0x00408018                _setmode
+ .text          0x00408020        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00383.o)
+ .text          0x00408020        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00266.o)
+ .text          0x00408020        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00228.o)
+                0x00408020                _fullpath
+ .text          0x00408028        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00182.o)
+                0x00408028                _errno
+ .text          0x00408030        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00147.o)
+                0x00408030                _cexit
+ .text          0x00408038        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00079.o)
+                0x00408038                __p__fmode
+ .text          0x00408040        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00077.o)
+                0x00408040                __p__environ
+ .text          0x00408048        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00065.o)
+ .text          0x00408048        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00055.o)
+                0x00408048                __getmainargs
+ .text          0x00408050        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvh.o)
+ .text          0x00408050        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvt.o)
+ .text          0x00408050        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01247.o)
+                0x00408050                WideCharToMultiByte@32
+ .text          0x00408058        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01215.o)
+                0x00408058                VirtualQuery@12
+ .text          0x00408060        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01213.o)
+                0x00408060                VirtualProtect@16
+ .text          0x00408068        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01173.o)
+                0x00408068                TlsGetValue@4
+ .text          0x00408070        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01152.o)
+                0x00408070                Sleep@4
+ .text          0x00408078        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01140.o)
+                0x00408078                SetUnhandledExceptionFilter@4
+ .text          0x00408080        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00860.o)
+                0x00408080                MultiByteToWideChar@24
+ .text          0x00408088        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00814.o)
+                0x00408088                LeaveCriticalSection@4
+ .text          0x00408090        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00763.o)
+                0x00408090                IsDBCSLeadByteEx@8
+ .text          0x00408098        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00744.o)
+                0x00408098                InterlockedExchange@8
+ .text          0x004080a0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00734.o)
+                0x004080a0                InitializeCriticalSection@4
+ .text          0x004080a8        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00577.o)
+                0x004080a8                GetProcAddress@8
+ .text          0x004080b0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00529.o)
+                0x004080b0                GetModuleHandleA@4
+ .text          0x004080b8        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00510.o)
+                0x004080b8                GetLastError@0
+ .text          0x004080c0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00388.o)
+                0x004080c0                GetCommandLineA@0
+ .text          0x004080c8        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00321.o)
+                0x004080c8                FindNextFileA@8
+ .text          0x004080d0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00304.o)
+                0x004080d0                FindFirstFileA@8
+ .text          0x004080d8        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00300.o)
+                0x004080d8                FindClose@4
+ .text          0x004080e0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00279.o)
+                0x004080e0                ExitProcess@4
+ .text          0x004080e8        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00236.o)
+                0x004080e8                EnterCriticalSection@4
+ .text          0x004080f0        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00207.o)
+                0x004080f0                DeleteCriticalSection@4
+ .text          0x004080f8        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdh.o)
+ .text          0x004080f8        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdt.o)
+ *fill*         0x004080f8        0x8 
+ .text          0x00408100      0x110 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_udivdi3.o)
+                0x00408100                __udivdi3
+ .text          0x00408210      0x150 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_umoddi3.o)
+                0x00408210                __umoddi3
+ .text          0x00408360        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00082.o)
+                0x00408360                stricoll
+ .text          0x00408368        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00080.o)
+                0x00408368                strdup
+ .text          0x00408370        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbh.o)
+ .text          0x00408370        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbt.o)
+ .text          0x00408370        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtend.o
+ *(SORT(.text$*))
+ *(.text.*)
+ .text.startup  0x00408370       0x20 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtend.o
+ *(.gnu.linkonce.t.*)
+ *(.glue_7t)
+ *(.glue_7)
+                0x00408390                ___CTOR_LIST__ = .
+                0x00408390                __CTOR_LIST__ = .
+                0x00408390        0x4 LONG 0xffffffff
+ *(.ctors)
+ *(.ctor)
+ *(SORT(.ctors.*))
+ .ctors.65535   0x00408394        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtend.o
+                0x00408398        0x4 LONG 0x0
+                0x0040839c                ___DTOR_LIST__ = .
+                0x0040839c                __DTOR_LIST__ = .
+                0x0040839c        0x4 LONG 0xffffffff
+ *(.dtors)
+ *(.dtor)
+ *(SORT(.dtors.*))
+                0x004083a0        0x4 LONG 0x0
+ *(.fini)
+ *(.gcc_exc)
+                [!provide]                PROVIDE (etext, .)
+                [!provide]                PROVIDE (_etext, .)
+ *(.gcc_except_table)
+
+.data           0x00409000      0x200
+                0x00409000                __data_start__ = .
+ *(.data)
+ .data          0x00409000        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o
+ .data          0x00409000        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtbegin.o
+ .data          0x00409000        0x0 C:\Users\Daniel\AppData\Local\Temp\ccK2CKVT.o
+ .data          0x00409000        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRTglob.o)
+                0x00409000                _CRT_glob
+ .data          0x00409004        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(setargv.o)
+ .data          0x00409004        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRTfmode.o)
+ .data          0x00409004        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(cpu_features.o)
+ .data          0x00409004        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRT_fp10.o)
+ .data          0x00409004        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(txtmode.o)
+                0x00409004                _fmode
+ .data          0x00409008        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(gccmain.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc-list.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(crtst.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_chkstk_ms.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_ctors.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirname.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(snprintf.o)
+ .data          0x0040900c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(vsnprintf.o)
+ .data          0x0040900c       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o)
+ .data          0x00409020        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(varofmt.o)
+ .data          0x00409020        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(mbrtowc.o)
+ .data          0x00409020        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(wcrtomb.o)
+ .data          0x00409020        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gdtoa.o)
+ .data          0x00409020        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gmisc.o)
+ .data          0x00409020        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dmisc.o)
+ .data          0x00409020        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(misc.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00772.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00761.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00748.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00742.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00721.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00716.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00714.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00706.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00704.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00698.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00689.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00682.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00678.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00676.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00671.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00652.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00637.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00633.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00625.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00620.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00595.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00592.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00590.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00583.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00426.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00383.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00266.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00228.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00182.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00147.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00099.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00079.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00077.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00065.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00055.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvh.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvt.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01247.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01215.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01213.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01173.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01152.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01140.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00860.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00814.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00763.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00744.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00734.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00577.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00529.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00510.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00388.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00321.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00304.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00300.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00279.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00236.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00207.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdh.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdt.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_udivdi3.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_umoddi3.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00082.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00080.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbh.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbt.o)
+ .data          0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtend.o
+ *(.data2)
+ *(SORT(.data$*))
+ *(.jcr)
+ .jcr           0x00409024        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtbegin.o
+ .jcr           0x00409024        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtend.o
+                0x00409028                __data_end__ = .
+ *(.data_cygwin_nocopy)
+
+.rdata          0x0040a000      0x800
+ *(.rdata)
+ .rdata         0x0040a000       0x64 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtbegin.o
+ .rdata         0x0040a064        0xc C:\Users\Daniel\AppData\Local\Temp\ccK2CKVT.o
+ .rdata         0x0040a070        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+                0x0040a070                __dyn_tls_init_callback
+ .rdata         0x0040a074       0xac c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o)
+ .rdata         0x0040a120       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o)
+ .rdata         0x0040a134        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirname.o)
+ .rdata         0x0040a13c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o)
+ .rdata         0x0040a140      0x1a0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o)
+ .rdata         0x0040a2e0       0x68 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gdtoa.o)
+ *fill*         0x0040a348       0x18 
+ .rdata         0x0040a360      0x160 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(misc.o)
+                0x0040a380                __tens_D2A
+                0x0040a440                __tinytens_D2A
+                0x0040a480                __bigtens_D2A
+ *(SORT(.rdata$*))
+ .rdata$zzz     0x0040a4c0       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o
+ .rdata$zzz     0x0040a4d4       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtbegin.o
+ .rdata$zzz     0x0040a4e8       0x14 C:\Users\Daniel\AppData\Local\Temp\ccK2CKVT.o
+ .rdata$zzz     0x0040a4fc       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRTglob.o)
+ .rdata$zzz     0x0040a510       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(setargv.o)
+ .rdata$zzz     0x0040a524       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRTfmode.o)
+ .rdata$zzz     0x0040a538       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(cpu_features.o)
+ .rdata$zzz     0x0040a54c       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRT_fp10.o)
+ .rdata$zzz     0x0040a560       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(txtmode.o)
+ .rdata$zzz     0x0040a574       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(gccmain.o)
+ .rdata$zzz     0x0040a588       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+ .rdata$zzz     0x0040a59c       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o)
+ .rdata$zzz     0x0040a5b0       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o)
+ .rdata$zzz     0x0040a5c4       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc-list.o)
+ .rdata$zzz     0x0040a5d8       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(crtst.o)
+ .rdata$zzz     0x0040a5ec       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_ctors.o)
+ .rdata$zzz     0x0040a600       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o)
+ .rdata$zzz     0x0040a614       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirname.o)
+ .rdata$zzz     0x0040a628       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o)
+ .rdata$zzz     0x0040a63c       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(snprintf.o)
+ .rdata$zzz     0x0040a650       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(vsnprintf.o)
+ .rdata$zzz     0x0040a664       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o)
+ .rdata$zzz     0x0040a678       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(varofmt.o)
+ .rdata$zzz     0x0040a68c       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(mbrtowc.o)
+ .rdata$zzz     0x0040a6a0       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(wcrtomb.o)
+ .rdata$zzz     0x0040a6b4       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gdtoa.o)
+ .rdata$zzz     0x0040a6c8       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gmisc.o)
+ .rdata$zzz     0x0040a6dc       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dmisc.o)
+ .rdata$zzz     0x0040a6f0       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(misc.o)
+ .rdata$zzz     0x0040a704       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_udivdi3.o)
+ .rdata$zzz     0x0040a718       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_umoddi3.o)
+ .rdata$zzz     0x0040a72c       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtend.o
+                0x0040a740                __rt_psrelocs_start = .
+ *(.rdata_runtime_pseudo_reloc)
+                0x0040a740                __rt_psrelocs_end = .
+                0x00000000                __rt_psrelocs_size = (__rt_psrelocs_end - __rt_psrelocs_start)
+                0x0040a740                ___RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x0040a740                __RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x0040a740                ___RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+                0x0040a740                __RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+
+.eh_frame       0x0040b000     0x1600
+ *(.eh_frame*)
+ .eh_frame      0x0040b000       0xc0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o
+ .eh_frame      0x0040b0c0       0x58 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtbegin.o
+ .eh_frame      0x0040b118       0x5c C:\Users\Daniel\AppData\Local\Temp\ccK2CKVT.o
+ .eh_frame      0x0040b174       0x58 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(setargv.o)
+ .eh_frame      0x0040b1cc       0x38 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(cpu_features.o)
+ .eh_frame      0x0040b204       0x2c c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRT_fp10.o)
+ .eh_frame      0x0040b230       0x68 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(gccmain.o)
+ .eh_frame      0x0040b298       0x88 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+ .eh_frame      0x0040b320       0xd4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o)
+ .eh_frame      0x0040b3f4       0xb0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o)
+ .eh_frame      0x0040b4a4      0x2a4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o)
+ .eh_frame      0x0040b748       0x58 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirname.o)
+ .eh_frame      0x0040b7a0      0x198 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o)
+ .eh_frame      0x0040b938       0x30 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(snprintf.o)
+ .eh_frame      0x0040b968       0x50 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(vsnprintf.o)
+ .eh_frame      0x0040b9b8      0x330 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o)
+ .eh_frame      0x0040bce8      0x128 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(mbrtowc.o)
+ .eh_frame      0x0040be10       0xfc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(wcrtomb.o)
+ .eh_frame      0x0040bf0c       0xa0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gdtoa.o)
+ .eh_frame      0x0040bfac       0x98 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gmisc.o)
+ .eh_frame      0x0040c044       0xb8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dmisc.o)
+ .eh_frame      0x0040c0fc      0x340 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(misc.o)
+ .eh_frame      0x0040c43c       0x98 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_udivdi3.o)
+ .eh_frame      0x0040c4d4       0x9c c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_umoddi3.o)
+ .eh_frame      0x0040c570       0x3c c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtend.o
+
+.pdata
+ *(.pdata)
+
+.bss            0x0040d000      0xa30
+                0x0040d000                __bss_start__ = .
+ *(.bss)
+ .bss           0x0040d000        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../crt2.o
+                0x0040d000                _argv
+                0x0040d004                _argc
+ .bss           0x0040d008       0x18 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtbegin.o
+ .bss           0x0040d020        0x0 C:\Users\Daniel\AppData\Local\Temp\ccK2CKVT.o
+ .bss           0x0040d020        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRTglob.o)
+ .bss           0x0040d020        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(setargv.o)
+ .bss           0x0040d020        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRTfmode.o)
+                0x0040d020                _CRT_fmode
+ .bss           0x0040d024        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(cpu_features.o)
+                0x0040d024                __cpu_features
+ .bss           0x0040d028        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(CRT_fp10.o)
+ .bss           0x0040d028        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(txtmode.o)
+ .bss           0x0040d028        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(gccmain.o)
+ .bss           0x0040d02c       0x10 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+                0x0040d02c                mingw_initltssuo_force
+                0x0040d030                mingw_initltsdyn_force
+                0x0040d034                mingw_initltsdrot_force
+                0x0040d038                _tls_index
+ .bss           0x0040d03c       0x20 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlsthrd.o)
+ .bss           0x0040d05c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc.o)
+ .bss           0x0040d060        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(pseudo-reloc-list.o)
+ .bss           0x0040d064        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(crtst.o)
+                0x0040d064                _CRT_MT
+ .bss           0x0040d068        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_chkstk_ms.o)
+ .bss           0x0040d068        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_ctors.o)
+ .bss           0x0040d068        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(glob.o)
+ .bss           0x0040d068        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirname.o)
+ .bss           0x0040d06c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dirent.o)
+ .bss           0x0040d06c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(snprintf.o)
+ .bss           0x0040d06c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(vsnprintf.o)
+ .bss           0x0040d06c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(pformat.o)
+ .bss           0x0040d06c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(varofmt.o)
+                0x0040d06c                __mingw_output_format_flag
+ .bss           0x0040d070        0xc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(mbrtowc.o)
+ .bss           0x0040d07c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(wcrtomb.o)
+ .bss           0x0040d07c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gdtoa.o)
+ .bss           0x0040d07c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(gmisc.o)
+ .bss           0x0040d07c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(dmisc.o)
+ *fill*         0x0040d07c        0x4 
+ .bss           0x0040d080      0x9a0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingwex.a(misc.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00772.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00761.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00748.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00742.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00721.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00716.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00714.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00706.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00704.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00698.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00689.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00682.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00678.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00676.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00671.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00652.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00637.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00633.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00625.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00620.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00595.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00592.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00590.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00583.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00426.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00383.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00266.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00228.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00182.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00147.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00099.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00079.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00077.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00065.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00055.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvh.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvt.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01247.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01215.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01213.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01173.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01152.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01140.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00860.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00814.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00763.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00744.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00734.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00577.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00529.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00510.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00388.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00321.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00304.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00300.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00279.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00236.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00207.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdh.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdt.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_udivdi3.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_umoddi3.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00082.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00080.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbh.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbt.o)
+ .bss           0x0040da20        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/crtend.o
+ *(COMMON)
+ COMMON         0x0040da20       0x10 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/libgcc.a(_ctors.o)
+                0x0040da30                __bss_end__ = .
+
+.edata
+ *(.edata)
+
+/DISCARD/
+ *(.debug$S)
+ *(.debug$T)
+ *(.debug$F)
+ *(.drectve)
+ *(.note.GNU-stack)
+ *(.gnu.lto_*)
+
+.idata          0x0040e000      0x800
+ SORT(*)(.idata$2)
+ .idata$2       0x0040e000       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdh.o)
+                0x0040e000                _head_libkernel32_a
+ .idata$2       0x0040e014       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbh.o)
+                0x0040e014                _head_libmoldname_a
+ .idata$2       0x0040e028       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvh.o)
+                0x0040e028                _head_libmsvcrt_a
+ SORT(*)(.idata$3)
+                0x0040e03c        0x4 LONG 0x0
+                0x0040e040        0x4 LONG 0x0
+                0x0040e044        0x4 LONG 0x0
+                0x0040e048        0x4 LONG 0x0
+                0x0040e04c        0x4 LONG 0x0
+ SORT(*)(.idata$4)
+ .idata$4       0x0040e050        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdh.o)
+ .idata$4       0x0040e050        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00207.o)
+ .idata$4       0x0040e054        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00236.o)
+ .idata$4       0x0040e058        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00279.o)
+ .idata$4       0x0040e05c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00300.o)
+ .idata$4       0x0040e060        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00304.o)
+ .idata$4       0x0040e064        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00321.o)
+ .idata$4       0x0040e068        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00388.o)
+ .idata$4       0x0040e06c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00510.o)
+ .idata$4       0x0040e070        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00529.o)
+ .idata$4       0x0040e074        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00577.o)
+ .idata$4       0x0040e078        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00734.o)
+ .idata$4       0x0040e07c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00744.o)
+ .idata$4       0x0040e080        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00763.o)
+ .idata$4       0x0040e084        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00814.o)
+ .idata$4       0x0040e088        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00860.o)
+ .idata$4       0x0040e08c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01140.o)
+ .idata$4       0x0040e090        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01152.o)
+ .idata$4       0x0040e094        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01173.o)
+ .idata$4       0x0040e098        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01213.o)
+ .idata$4       0x0040e09c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01215.o)
+ .idata$4       0x0040e0a0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01247.o)
+ .idata$4       0x0040e0a4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdt.o)
+ .idata$4       0x0040e0a8        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbh.o)
+ .idata$4       0x0040e0a8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00080.o)
+ .idata$4       0x0040e0ac        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00082.o)
+ .idata$4       0x0040e0b0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbt.o)
+ .idata$4       0x0040e0b4        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvh.o)
+ .idata$4       0x0040e0b4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00055.o)
+ .idata$4       0x0040e0b8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00065.o)
+ .idata$4       0x0040e0bc        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00077.o)
+ .idata$4       0x0040e0c0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00079.o)
+ .idata$4       0x0040e0c4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00099.o)
+ .idata$4       0x0040e0c8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00147.o)
+ .idata$4       0x0040e0cc        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00182.o)
+ .idata$4       0x0040e0d0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00228.o)
+ .idata$4       0x0040e0d4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00266.o)
+ .idata$4       0x0040e0d8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00383.o)
+ .idata$4       0x0040e0dc        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00426.o)
+ .idata$4       0x0040e0e0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00583.o)
+ .idata$4       0x0040e0e4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00590.o)
+ .idata$4       0x0040e0e8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00592.o)
+ .idata$4       0x0040e0ec        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00595.o)
+ .idata$4       0x0040e0f0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00620.o)
+ .idata$4       0x0040e0f4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00625.o)
+ .idata$4       0x0040e0f8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00633.o)
+ .idata$4       0x0040e0fc        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00637.o)
+ .idata$4       0x0040e100        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00652.o)
+ .idata$4       0x0040e104        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00671.o)
+ .idata$4       0x0040e108        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00676.o)
+ .idata$4       0x0040e10c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00678.o)
+ .idata$4       0x0040e110        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00682.o)
+ .idata$4       0x0040e114        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00689.o)
+ .idata$4       0x0040e118        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00698.o)
+ .idata$4       0x0040e11c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00704.o)
+ .idata$4       0x0040e120        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00706.o)
+ .idata$4       0x0040e124        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00714.o)
+ .idata$4       0x0040e128        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00716.o)
+ .idata$4       0x0040e12c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00721.o)
+ .idata$4       0x0040e130        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00742.o)
+ .idata$4       0x0040e134        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00748.o)
+ .idata$4       0x0040e138        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00761.o)
+ .idata$4       0x0040e13c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00772.o)
+ .idata$4       0x0040e140        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvt.o)
+                0x0040e144                __IAT_start__ = .
+ SORT(*)(.idata$5)
+ .idata$5       0x0040e144        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdh.o)
+ .idata$5       0x0040e144        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00207.o)
+                0x0040e144                _imp__DeleteCriticalSection@4
+ .idata$5       0x0040e148        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00236.o)
+                0x0040e148                _imp__EnterCriticalSection@4
+ .idata$5       0x0040e14c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00279.o)
+                0x0040e14c                _imp__ExitProcess@4
+ .idata$5       0x0040e150        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00300.o)
+                0x0040e150                _imp__FindClose@4
+ .idata$5       0x0040e154        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00304.o)
+                0x0040e154                _imp__FindFirstFileA@8
+ .idata$5       0x0040e158        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00321.o)
+                0x0040e158                _imp__FindNextFileA@8
+ .idata$5       0x0040e15c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00388.o)
+                0x0040e15c                _imp__GetCommandLineA@0
+ .idata$5       0x0040e160        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00510.o)
+                0x0040e160                _imp__GetLastError@0
+ .idata$5       0x0040e164        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00529.o)
+                0x0040e164                _imp__GetModuleHandleA@4
+ .idata$5       0x0040e168        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00577.o)
+                0x0040e168                _imp__GetProcAddress@8
+ .idata$5       0x0040e16c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00734.o)
+                0x0040e16c                _imp__InitializeCriticalSection@4
+ .idata$5       0x0040e170        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00744.o)
+                0x0040e170                _imp__InterlockedExchange@8
+ .idata$5       0x0040e174        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00763.o)
+                0x0040e174                _imp__IsDBCSLeadByteEx@8
+ .idata$5       0x0040e178        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00814.o)
+                0x0040e178                _imp__LeaveCriticalSection@4
+ .idata$5       0x0040e17c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00860.o)
+                0x0040e17c                _imp__MultiByteToWideChar@24
+ .idata$5       0x0040e180        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01140.o)
+                0x0040e180                _imp__SetUnhandledExceptionFilter@4
+ .idata$5       0x0040e184        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01152.o)
+                0x0040e184                _imp__Sleep@4
+ .idata$5       0x0040e188        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01173.o)
+                0x0040e188                _imp__TlsGetValue@4
+ .idata$5       0x0040e18c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01213.o)
+                0x0040e18c                _imp__VirtualProtect@16
+ .idata$5       0x0040e190        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01215.o)
+                0x0040e190                _imp__VirtualQuery@12
+ .idata$5       0x0040e194        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01247.o)
+                0x0040e194                _imp__WideCharToMultiByte@32
+ .idata$5       0x0040e198        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdt.o)
+ .idata$5       0x0040e19c        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbh.o)
+ .idata$5       0x0040e19c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00080.o)
+                0x0040e19c                _imp__strdup
+ .idata$5       0x0040e1a0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00082.o)
+                0x0040e1a0                _imp__stricoll
+ .idata$5       0x0040e1a4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbt.o)
+ .idata$5       0x0040e1a8        0x0 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvh.o)
+ .idata$5       0x0040e1a8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00055.o)
+                0x0040e1a8                _imp____getmainargs
+ .idata$5       0x0040e1ac        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00065.o)
+                0x0040e1ac                _imp____mb_cur_max
+ .idata$5       0x0040e1b0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00077.o)
+                0x0040e1b0                _imp____p__environ
+ .idata$5       0x0040e1b4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00079.o)
+                0x0040e1b4                _imp____p__fmode
+ .idata$5       0x0040e1b8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00099.o)
+                0x0040e1b8                _imp____set_app_type
+ .idata$5       0x0040e1bc        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00147.o)
+                0x0040e1bc                _imp___cexit
+ .idata$5       0x0040e1c0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00182.o)
+                0x0040e1c0                _imp___errno
+ .idata$5       0x0040e1c4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00228.o)
+                0x0040e1c4                _imp___fullpath
+ .idata$5       0x0040e1c8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00266.o)
+                0x0040e1c8                _imp___iob
+ .idata$5       0x0040e1cc        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00383.o)
+                0x0040e1cc                _imp___onexit
+ .idata$5       0x0040e1d0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00426.o)
+                0x0040e1d0                _imp___setmode
+ .idata$5       0x0040e1d4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00583.o)
+                0x0040e1d4                _imp__abort
+ .idata$5       0x0040e1d8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00590.o)
+                0x0040e1d8                _imp__atexit
+ .idata$5       0x0040e1dc        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00592.o)
+                0x0040e1dc                _imp__atoi
+ .idata$5       0x0040e1e0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00595.o)
+                0x0040e1e0                _imp__calloc
+ .idata$5       0x0040e1e4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00620.o)
+                0x0040e1e4                _imp__fputc
+ .idata$5       0x0040e1e8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00625.o)
+                0x0040e1e8                _imp__free
+ .idata$5       0x0040e1ec        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00633.o)
+                0x0040e1ec                _imp__fwrite
+ .idata$5       0x0040e1f0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00637.o)
+                0x0040e1f0                _imp__getenv
+ .idata$5       0x0040e1f4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00652.o)
+                0x0040e1f4                _imp__isspace
+ .idata$5       0x0040e1f8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00671.o)
+                0x0040e1f8                _imp__localeconv
+ .idata$5       0x0040e1fc        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00676.o)
+                0x0040e1fc                _imp__malloc
+ .idata$5       0x0040e200        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00678.o)
+                0x0040e200                _imp__mbstowcs
+ .idata$5       0x0040e204        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00682.o)
+                0x0040e204                _imp__memcpy
+ .idata$5       0x0040e208        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00689.o)
+                0x0040e208                _imp__printf
+ .idata$5       0x0040e20c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00698.o)
+                0x0040e20c                _imp__realloc
+ .idata$5       0x0040e210        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00704.o)
+                0x0040e210                _imp__setlocale
+ .idata$5       0x0040e214        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00706.o)
+                0x0040e214                _imp__signal
+ .idata$5       0x0040e218        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00714.o)
+                0x0040e218                _imp__strchr
+ .idata$5       0x0040e21c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00716.o)
+                0x0040e21c                _imp__strcoll
+ .idata$5       0x0040e220        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00721.o)
+                0x0040e220                _imp__strlen
+ .idata$5       0x0040e224        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00742.o)
+                0x0040e224                _imp__tolower
+ .idata$5       0x0040e228        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00748.o)
+                0x0040e228                _imp__vfprintf
+ .idata$5       0x0040e22c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00761.o)
+                0x0040e22c                _imp__wcslen
+ .idata$5       0x0040e230        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00772.o)
+                0x0040e230                _imp__wcstombs
+ .idata$5       0x0040e234        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvt.o)
+                0x0040e238                __IAT_end__ = .
+ SORT(*)(.idata$6)
+ .idata$6       0x0040e238       0x18 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00207.o)
+ .idata$6       0x0040e250       0x18 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00236.o)
+ .idata$6       0x0040e268        0xe c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00279.o)
+ .idata$6       0x0040e276        0xc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00300.o)
+ .idata$6       0x0040e282       0x12 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00304.o)
+ .idata$6       0x0040e294       0x10 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00321.o)
+ .idata$6       0x0040e2a4       0x12 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00388.o)
+ .idata$6       0x0040e2b6       0x10 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00510.o)
+ .idata$6       0x0040e2c6       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00529.o)
+ .idata$6       0x0040e2da       0x12 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00577.o)
+ .idata$6       0x0040e2ec       0x1c c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00734.o)
+ .idata$6       0x0040e308       0x16 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00744.o)
+ .idata$6       0x0040e31e       0x14 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00763.o)
+ .idata$6       0x0040e332       0x18 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00814.o)
+ .idata$6       0x0040e34a       0x16 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00860.o)
+ .idata$6       0x0040e360       0x1e c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01140.o)
+ .idata$6       0x0040e37e        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01152.o)
+ .idata$6       0x0040e386        0xe c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01173.o)
+ .idata$6       0x0040e394       0x12 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01213.o)
+ .idata$6       0x0040e3a6       0x10 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01215.o)
+ .idata$6       0x0040e3b6       0x16 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01247.o)
+ .idata$6       0x0040e3cc        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00080.o)
+ .idata$6       0x0040e3d6        0xc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00082.o)
+ .idata$6       0x0040e3e2       0x10 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00055.o)
+ .idata$6       0x0040e3f2       0x10 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00065.o)
+ .idata$6       0x0040e402       0x10 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00077.o)
+ .idata$6       0x0040e412        0xe c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00079.o)
+ .idata$6       0x0040e420       0x12 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00099.o)
+ .idata$6       0x0040e432        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00147.o)
+ .idata$6       0x0040e43c        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00182.o)
+ .idata$6       0x0040e446        0xc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00228.o)
+ .idata$6       0x0040e452        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00266.o)
+ .idata$6       0x0040e45a        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00383.o)
+ .idata$6       0x0040e464        0xc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00426.o)
+ .idata$6       0x0040e470        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00583.o)
+ .idata$6       0x0040e478        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00590.o)
+ .idata$6       0x0040e482        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00592.o)
+ .idata$6       0x0040e48a        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00595.o)
+ .idata$6       0x0040e494        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00620.o)
+ .idata$6       0x0040e49c        0x8 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00625.o)
+ .idata$6       0x0040e4a4        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00633.o)
+ .idata$6       0x0040e4ae        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00637.o)
+ .idata$6       0x0040e4b8        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00652.o)
+ .idata$6       0x0040e4c2        0xe c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00671.o)
+ .idata$6       0x0040e4d0        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00676.o)
+ .idata$6       0x0040e4da        0xc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00678.o)
+ .idata$6       0x0040e4e6        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00682.o)
+ .idata$6       0x0040e4f0        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00689.o)
+ .idata$6       0x0040e4fa        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00698.o)
+ .idata$6       0x0040e504        0xc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00704.o)
+ .idata$6       0x0040e510        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00706.o)
+ .idata$6       0x0040e51a        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00714.o)
+ .idata$6       0x0040e524        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00716.o)
+ .idata$6       0x0040e52e        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00721.o)
+ .idata$6       0x0040e538        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00742.o)
+ .idata$6       0x0040e542        0xc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00748.o)
+ .idata$6       0x0040e54e        0xa c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00761.o)
+ .idata$6       0x0040e558        0xc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00772.o)
+ SORT(*)(.idata$7)
+ .idata$7       0x0040e564        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00207.o)
+ .idata$7       0x0040e568        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00236.o)
+ .idata$7       0x0040e56c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00279.o)
+ .idata$7       0x0040e570        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00300.o)
+ .idata$7       0x0040e574        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00304.o)
+ .idata$7       0x0040e578        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00321.o)
+ .idata$7       0x0040e57c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00388.o)
+ .idata$7       0x0040e580        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00510.o)
+ .idata$7       0x0040e584        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00529.o)
+ .idata$7       0x0040e588        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00577.o)
+ .idata$7       0x0040e58c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00734.o)
+ .idata$7       0x0040e590        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00744.o)
+ .idata$7       0x0040e594        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00763.o)
+ .idata$7       0x0040e598        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00814.o)
+ .idata$7       0x0040e59c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds00860.o)
+ .idata$7       0x0040e5a0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01140.o)
+ .idata$7       0x0040e5a4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01152.o)
+ .idata$7       0x0040e5a8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01173.o)
+ .idata$7       0x0040e5ac        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01213.o)
+ .idata$7       0x0040e5b0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01215.o)
+ .idata$7       0x0040e5b4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchds01247.o)
+ .idata$7       0x0040e5b8       0x10 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libkernel32.a(dchdt.o)
+                0x0040e5b8                _libkernel32_a_iname
+ .idata$7       0x0040e5c8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00080.o)
+ .idata$7       0x0040e5cc        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbs00082.o)
+ .idata$7       0x0040e5d0        0xc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmoldname.a(dhsvbt.o)
+                0x0040e5d0                _libmoldname_a_iname
+ .idata$7       0x0040e5dc        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00055.o)
+ .idata$7       0x0040e5e0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00065.o)
+ .idata$7       0x0040e5e4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00077.o)
+ .idata$7       0x0040e5e8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00079.o)
+ .idata$7       0x0040e5ec        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00099.o)
+ .idata$7       0x0040e5f0        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00147.o)
+ .idata$7       0x0040e5f4        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00182.o)
+ .idata$7       0x0040e5f8        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00228.o)
+ .idata$7       0x0040e5fc        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00266.o)
+ .idata$7       0x0040e600        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00383.o)
+ .idata$7       0x0040e604        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00426.o)
+ .idata$7       0x0040e608        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00583.o)
+ .idata$7       0x0040e60c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00590.o)
+ .idata$7       0x0040e610        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00592.o)
+ .idata$7       0x0040e614        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00595.o)
+ .idata$7       0x0040e618        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00620.o)
+ .idata$7       0x0040e61c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00625.o)
+ .idata$7       0x0040e620        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00633.o)
+ .idata$7       0x0040e624        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00637.o)
+ .idata$7       0x0040e628        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00652.o)
+ .idata$7       0x0040e62c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00671.o)
+ .idata$7       0x0040e630        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00676.o)
+ .idata$7       0x0040e634        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00678.o)
+ .idata$7       0x0040e638        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00682.o)
+ .idata$7       0x0040e63c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00689.o)
+ .idata$7       0x0040e640        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00698.o)
+ .idata$7       0x0040e644        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00704.o)
+ .idata$7       0x0040e648        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00706.o)
+ .idata$7       0x0040e64c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00714.o)
+ .idata$7       0x0040e650        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00716.o)
+ .idata$7       0x0040e654        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00721.o)
+ .idata$7       0x0040e658        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00742.o)
+ .idata$7       0x0040e65c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00748.o)
+ .idata$7       0x0040e660        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00761.o)
+ .idata$7       0x0040e664        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvs00772.o)
+ .idata$7       0x0040e668        0xc c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmsvcrt.a(dupvt.o)
+                0x0040e668                _libmsvcrt_a_iname
+
+.CRT            0x0040f000      0x200
+                0x0040f000                ___crt_xc_start__ = .
+ *(SORT(.CRT$XC*))
+                0x0040f000                ___crt_xc_end__ = .
+                0x0040f000                ___crt_xi_start__ = .
+ *(SORT(.CRT$XI*))
+                0x0040f000                ___crt_xi_end__ = .
+                0x0040f000                ___crt_xl_start__ = .
+ *(SORT(.CRT$XL*))
+ .CRT$XLA       0x0040f000        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+                0x0040f000                __xl_a
+ .CRT$XLC       0x0040f004        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+                0x0040f004                __xl_c
+ .CRT$XLD       0x0040f008        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+                0x0040f008                __xl_d
+ .CRT$XLZ       0x0040f00c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+                0x0040f00c                __xl_z
+                0x0040f010                ___crt_xp_start__ = .
+ *(SORT(.CRT$XP*))
+                0x0040f010                ___crt_xp_end__ = .
+                0x0040f010                ___crt_xt_start__ = .
+ *(SORT(.CRT$XT*))
+                0x0040f010                ___crt_xt_end__ = .
+ .CRT$XDA       0x0040f010        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+ .CRT$XDZ       0x0040f014        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+
+.tls            0x00410000      0x200
+                0x00410000                ___tls_start__ = .
+ *(.tls$AAA)
+ .tls$AAA       0x00410000        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+                0x00410000                _tls_start
+ *(.tls)
+ .tls           0x00410004       0x18 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+                0x00410004                _tls_used
+ *(.tls$)
+ *(SORT(.tls$*))
+ .tls$ZZZ       0x0041001c        0x4 c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../libmingw32.a(tlssup.o)
+                0x0041001c                _tls_end
+ *(.tls$ZZZ)
+                0x00410020                ___tls_end__ = .
+
+.endjunk        0x00411000        0x0
+                [!provide]                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                0x00411000                __end__ = .
+
+.rsrc
+ *(.rsrc)
+ *(.rsrc$*)
+
+.reloc
+ *(.reloc)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.zdebug_aranges
+ *(.zdebug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.zdebug_pubnames
+ *(.zdebug_pubnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.zdebug_pubtypes
+ *(.zdebug_pubtypes)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.zdebug_info
+ *(.zdebug_info .zdebug.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.zdebug_abbrev
+ *(.zdebug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.zdebug_line
+ *(.zdebug_line)
+
+.debug_frame
+ *(.debug_frame*)
+
+.zdebug_frame
+ *(.zdebug_frame*)
+
+.debug_str
+ *(.debug_str)
+
+.zdebug_str
+ *(.zdebug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.zdebug_loc
+ *(.zdebug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.zdebug_macinfo
+ *(.zdebug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.zdebug_weaknames
+ *(.zdebug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.zdebug_funcnames
+ *(.zdebug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.zdebug_typenames
+ *(.zdebug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.zdebug_varnames
+ *(.zdebug_varnames)
+
+.debug_macro
+ *(.debug_macro)
+
+.zdebug_macro
+ *(.zdebug_macro)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.zdebug_ranges
+ *(.zdebug_ranges)
+
+.debug_types
+ *(.debug_types .gnu.linkonce.wt.*)
+
+.zdebug_types
+ *(.zdebug_types .gnu.linkonce.wt.*)
+OUTPUT(a.exe pei-i386)

@@ -1,0 +1,4 @@
+.text = 0x7400 
+.data = 0x200 
+.rdata = 0x800 
+.bss = 0xa30 
